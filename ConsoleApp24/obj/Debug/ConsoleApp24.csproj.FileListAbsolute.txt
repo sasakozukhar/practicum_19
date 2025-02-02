@@ -1,0 +1,7 @@
+C:\branch_3\ConsoleApp24\bin\Debug\ConsoleApp24.exe.config
+C:\branch_3\ConsoleApp24\bin\Debug\ConsoleApp24.exe
+C:\branch_3\ConsoleApp24\bin\Debug\ConsoleApp24.pdb
+C:\branch_3\ConsoleApp24\obj\Debug\ConsoleApp24.csproj.AssemblyReference.cache
+C:\branch_3\ConsoleApp24\obj\Debug\ConsoleApp24.csproj.CoreCompileInputs.cache
+C:\branch_3\ConsoleApp24\obj\Debug\ConsoleApp24.exe
+C:\branch_3\ConsoleApp24\obj\Debug\ConsoleApp24.pdb
